@@ -5,4 +5,4 @@
 <h3 align="center"> Covid Analytics </h3>
 
 ## Description
-We have built a RNN, GRU and LST for the development of our Binary Classification models. When trained on a similar architecture, all of the models gave similarly high accuracy of about ~99%. Though RNNs proved to be slower compared to the newer LSTMs and GRUs, the accuracy of our Binary classifier was not affected.
+Visualized the various aspects of the COVID-19 pandemic. 
